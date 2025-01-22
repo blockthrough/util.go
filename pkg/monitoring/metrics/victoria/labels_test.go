@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_labels_sortAndDeduplicateKeys(t *testing.T) {
+func TestLabelsSortAndDeduplicateKeys(t *testing.T) {
 	tests := []struct {
 		name string
 		l    labels
