@@ -1,4 +1,4 @@
-package exporter
+package victoria
 
 import (
 	"github.com/stretchr/testify/assert"
