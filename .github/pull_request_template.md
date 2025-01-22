@@ -12,7 +12,7 @@
 
 ### After merging
 - [ ] Tag the release in the format `vX.Y.Z`
-- [ ] Notify availability of services/tools in the Slack [#go-live-eng](https://eyeo.slack.com/archives/C05RC7JMEMC) channel
+- [ ] Notify availability in the Slack [#go-live-eng](https://eyeo.slack.com/archives/C05RC7JMEMC) channel
 
 ## Reminders
 * Format the PR title as `[BTCORE-XXX] - {{summary}}`
